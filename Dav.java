@@ -27,9 +27,10 @@ class Dav{
         int d = Integer.parseInt(args[0]);
         //Initial number 
         String number = "0";
-    
+        System.out.println("Hello, I'm Jaturon 6135512026");
         System.out.println(DavisonSequence(d,number));
     }
+    
   
     }
 
