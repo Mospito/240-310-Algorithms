@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
-
+//6135512026 Jaturon Moonjan
 public class NumberInBag {
     public static void main(String[] args) {
     
@@ -41,6 +41,9 @@ public class NumberInBag {
     //Show Out put
     System.out.println("This is Bag: "+ number);
     System.out.println("This is Missing number: "+tmp);
+    
+    System.out.println("I'm Jaturon Moonjan 6135512026");
+
 
     }
 
