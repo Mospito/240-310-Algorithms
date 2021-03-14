@@ -13,3 +13,8 @@ MazeSearcher program reads in a text file representing a maze, such as the follo
 The "#"s are the walls of the maze. The "S" marks the start of the maze, and the "E" is 
 the exit. In this example, the "S" is located at coordinate (1,0), with x increasing 
 across, and y increasing downwards.
+
+
+
+
+**Thx. Pung And Few And Boss For infomation and Solution **
