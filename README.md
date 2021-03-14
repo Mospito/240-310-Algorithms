@@ -9,18 +9,6 @@ exactly once. However, one of the numbers has been removed from the bag.
 3. Finish implementing the program in the Maze/ folder on the Algorithms website. The 
 MazeSearcher program reads in a text file representing a maze, such as the following:
 
-#S########
-#        #
-# ### ## #
-# #    # #
-# #  # # #
-# ## #####
-# #      #
-# # #  # #
-##### ####
-#   #    E
-# #    # #
-##########
 
 The "#"s are the walls of the maze. The "S" marks the start of the maze, and the "E" is 
 the exit. In this example, the "S" is located at coordinate (1,0), with x increasing 
